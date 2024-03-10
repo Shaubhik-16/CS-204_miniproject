@@ -22,5 +22,6 @@ The Project currently supports most of the instructions available in format.txt 
 -> output.mc has Machine Code in Hexadecimal Form with Program Counter followed by Data Memory Part.
 
 ## Built By
-samarth bajpai
-shaubik datta
+Shaubhik Dutta
+Samarth Bajpai
+

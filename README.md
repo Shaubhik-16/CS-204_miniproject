@@ -20,6 +20,8 @@ The Project currently supports most of the instructions available in format.txt 
 -> Compile main.cpp
 -> Output will be produced in output.mc File
 -> output.mc has Machine Code in Hexadecimal Form with Program Counter followed by Data Memory Part.
+## Reference Sheet
+[RISC-V-Reference-Data.pdf](https://github.com/Shaubhik-16/CS-204_miniproject/files/14550287/RISC-V-Reference-Data.pdf)
 
 ## Built By
 Shaubhik Dutta
